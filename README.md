@@ -59,3 +59,5 @@ L'idée nous est venue grâce à la sortie triomphante de MegaBonk, un jeu survi
 
 ### Pourquoi Blob Defense?
 L'idée initiale était de faire un jeu flash comme dans notre enfance. Nous avons donc hésité puis nous avons choisi de faire un mix de plusieurs jeux : tycoon, tower defense, clicker et Typing Game.
+### Pour jouer aux jeux, il faut aller sur :
+https://projet-jeux-web-nine.vercel.app/ProjetGOW/index.html
